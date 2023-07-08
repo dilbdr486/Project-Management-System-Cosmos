@@ -17,6 +17,10 @@
 mono_crash.*
 
 # Build results
+CosmosProject/x64
+CosmosProject/x86
+CosmosProject/bin
+
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
